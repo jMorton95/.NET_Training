@@ -1,0 +1,5 @@
+C:\Users\chrissmuts\source\repos\CsvFileImporter\CsvFileImporter\obj\Debug\net6.0\CsvFileImporter.csproj.AssemblyReference.cache
+C:\Users\chrissmuts\source\repos\CsvFileImporter\CsvFileImporter\obj\Debug\net6.0\CsvFileImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrissmuts\source\repos\CsvFileImporter\CsvFileImporter\obj\Debug\net6.0\CsvFileImporter.AssemblyInfoInputs.cache
+C:\Users\chrissmuts\source\repos\CsvFileImporter\CsvFileImporter\obj\Debug\net6.0\CsvFileImporter.AssemblyInfo.cs
+C:\Users\chrissmuts\source\repos\CsvFileImporter\CsvFileImporter\obj\Debug\net6.0\CsvFileImporter.csproj.CoreCompileInputs.cache
